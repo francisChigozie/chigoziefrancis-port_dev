@@ -1,0 +1,9 @@
+html,
+body {
+    background-color: bisque;
+    color: chocolate;
+}
+
+#home .container-home {
+    text-align: center;
+}
